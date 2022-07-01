@@ -1,0 +1,10 @@
+.openapi-generator-ignore
+Dockerfile
+README.md
+_client.sh
+client.sh
+client.sh.bash-completion
+docs/DefaultApi.md
+docs/PostMomentsProjectIdIngest200Response.md
+docs/PostMomentsProjectIdIngest422Response.md
+docs/PostMomentsProjectIdIngestRequest.md
